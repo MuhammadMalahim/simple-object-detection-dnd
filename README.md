@@ -25,7 +25,7 @@ The notebook walks through:
 - OpenCV  
 - Matplotlib  
 - Seaborn  
-- PyTorch or TensorFlow (for model implementation)  
+- PyTorch 
 - YOLO (pre-trained model integration)  
 - Jupyter Notebook  
 
